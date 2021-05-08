@@ -1,0 +1,3 @@
+Customer ID,Job ID,Date,G/L Account,Quantity,Item ID,Description,Unit Price,Amount,Invoice #,Accounts Receivable Account,Number of Distributions,Tax Type
+281,DEC98DC,01/22/99,40000,000.00,,Billing for Professional Services December 1998. ,000000.00,-00000.00,,11000,01,1
+281,DEC98DC,01/22/99,40000,001.00,DC,Diskette to tape conversions for credit reporting to CBI.,000029.00,-00029.00,,11000,01,1

@@ -1,0 +1,79 @@
+2810000103098          1.00      Diskette to tape conversionsfor credit reporting to CBI.  29.0000   29.00
+2810000103098          1.00      Shipping & Handling charges.(Tapes sent to CBI-Atlanta)    3.0000    3.00
+0000000     00000       .00                                                                  .0000     .00
+29400001030980000      1.00      Diskette to tape conversionsfor credit reporting to CBI.  29.0000   29.00
+29400001030980000      1.00      Diskette to tape conversionsfor credit reporting to TRW.  29.0000   29.00
+29400001030980000      1.00      Diskette to tape conversionsfor credit reporting to TU.     .0000     .00
+29400001030980000      1.00      Shipping & Handling charges.(Tapes sent to CBI-Atlanta)    3.0000    3.00
+29400001030980000      1.00      Shipping & Handling charges.(Tapes sent to TRW-Allen,TX)   3.0000    3.00
+29400001030980000      1.00      Shipping & Handling charges.(Tapes sent to TU-Chicago)     3.0000    3.00
+29400001030980000      1.00      Special pricing for reports sent to all 3 credit bureaus    .0000     .00
+0000000     00000       .00                                                                  .0000     .00
+27900001030980000      1.00      Diskette to tape conversionsfor credit reporting to CBI.  29.0000   29.00
+27900001030980000      1.00      Shipping & Handling charges.(Tapes sent to CBI-Atlanta)    3.0000    3.00
+0000000     00000       .00                                                                  .0000     .00
+30600001030980000      1.00      Diskette to tape conversionsfor credit reporting to CBI.  29.0000   29.00
+30600001030980000      1.00      Shipping & Handling charges.(Tapes sent to CBI-Atlanta)    3.0000    3.00
+0000000     00000       .00                                                                  .0000     .00
+31600001030980000      1.00      Diskette to tape conversionsfor credit reporting to CBI.  29.0000   29.00
+31600001030980000      1.00      Shipping & Handling charges.(Tapes sent to CBI-Atlanta)    3.0000    3.00
+31600001030980000      1.00      Diskette to tape conversionsfor credit reporting to TU.   29.0000   29.00
+31600001030980000      1.00      Shipping & Handling charges.(Tapes sent to TU-Chicago)     3.0000    3.00
+0000000     00000       .00                                                                  .0000     .00
+25000001030980000      1.00      Diskette to tape conversionsfor credit reporting to CBI.  29.0000   29.00
+25000001030980000      1.00      Shipping & Handling charges.(Tapes sent to CBI-Atlanta)    3.0000    3.00
+0000000     00000       .00                                                                  .0000     .00
+30000001030980000      1.00      Diskette to tape conversionsfor credit reporting to TU.   29.0000   29.00
+30000001030980000      1.00      Shipping & Handling charges.(Tapes sent to TU-Chicago)     3.0000    3.00
+0000000     00000       .00                                                                  .0000     .00
+29000001030980000      1.00      Diskette to tape conversionsfor credit reporting to CBI.  29.0000   29.00
+29000001030980000      1.00      Shipping & Handling charges.(Tapes sent to CBI-Atlanta)    3.0000    3.00
+0000000     00000       .00                                                                  .0000     .00
+30300001030980000      1.00      Diskette to tape conversionsfor credit reporting to CBI.  29.0000   29.00
+30300001030980000      1.00      Shipping & Handling charges.(Tapes sent to CBI-Atlanta)    3.0000    3.00
+0000000     00000       .00                                                                  .0000     .00
+31500001030980000      1.00      Diskette to tape conversionsfor credit reporting to CBI.  29.0000   29.00
+31500001030980000      1.00      Shipping & Handling charges.(Tapes sent to CBI-Atlanta)    3.0000    3.00
+0000000     00000       .00                                                                  .0000     .00
+24300001030980000      1.00      Diskette to tape conversionsfor credit reporting to CBI.  29.0000   29.00
+24300001030980000      1.00      Diskette to tape conversionsfor credit reporting to TRW.  29.0000   29.00
+24300001030980000      1.00      Diskette to tape conversionsfor credit reporting to TU.     .0000     .00
+24300001030980000      1.00      Shipping & Handling charges.(Tapes sent to CBI-Atlanta)    3.0000    3.00
+24300001030980000      1.00      Shipping & Handling charges.(Tapes sent to TRW-Allen,TX)   3.0000    3.00
+24300001030980000      1.00      Shipping & Handling charges.(Tapes sent to TU-Chicago)     3.0000    3.00
+24300001030980000      1.00      Special pricing for reports sent to all 3 credit bureaus    .0000     .00
+0000000     00000       .00                                                                  .0000     .00
+25100001030980000      1.00      Diskette to tape conversionsfor credit reporting to CBI.  29.0000   29.00
+25100001030980000      1.00      Shipping & Handling charges.(Tapes sent to CBI-Atlanta)    3.0000    3.00
+0000000     00000       .00                                                                  .0000     .00
+26400001030980000      1.00      Diskette to tape conversionsfor credit reporting to CBI.  29.0000   29.00
+26400001030980000      1.00      Shipping & Handling charges.(Tapes sent to CBI-Atlanta)    3.0000    3.00
+0000000     00000       .00                                                                  .0000     .00
+29900001030980000      1.00      Diskette to tape conversionsfor credit reporting to CBI.  29.0000   29.00
+29900001030980000      1.00      Shipping & Handling charges.(Tapes sent to CBI-Atlanta)    3.0000    3.00
+29900001030980000      1.00      Diskette to tape conversionsfor credit reporting to TRW.  29.0000   29.00
+29900001030980000      1.00      Shipping & Handling charges.(Tapes sent to TRW-Allen,TX)   3.0000    3.00
+0000000     00000       .00                                                                  .0000     .00
+30900001030980000      1.00      Diskette to tape conversionsfor credit reporting to CBI.  29.0000   29.00
+30900001030980000      1.00      Diskette to tape conversionsfor credit reporting to TRW.  29.0000   29.00
+30900001030980000      1.00      Diskette to tape conversionsfor credit reporting to TU.     .0000     .00
+30900001030980000      1.00      Shipping & Handling charges.(Tapes sent to CBI-Atlanta)    3.0000    3.00
+30900001030980000      1.00      Shipping & Handling charges.(Tapes sent to TRW-Allen,TX)   3.0000    3.00
+30900001030980000      1.00      Shipping & Handling charges.(Tapes sent to TU-Chicago)     3.0000    3.00
+30900001030980000      1.00      Special pricing for reports sent to all 3 credit bureaus    .0000     .00
+0000000     00000       .00                                                                  .0000     .00
+29700001030980000      1.00      Diskette to tape conversionsfor credit reporting to CBI.  29.0000   29.00
+29700001030980000      1.00      Shipping & Handling charges.(Tapes sent to CBI-Atlanta)    3.0000    3.00
+0000000     00000       .00                                                                  .0000     .00
+26500001030980000      1.00      Diskette to tape conversionsfor credit reporting to TU.   29.0000   29.00
+26500001030980000      1.00      Shipping & Handling charges.(Tapes sent to TU-Chicago)     3.0000    3.00
+0000000     00000       .00                                                                  .0000     .00
+28000001030980000      1.00      Sound Ford conversion chargefor credit reporting.         29.0000   29.00
+28000001030980000      1.00      Shipping & Handling charges.(Tapes sent to 3 bureaus)      3.0000    3.00
+28000001030980000      1.00      Special pricing for reports sent to all 3 credit bureaus    .0000     .00
+0000000     00000       .00                                                                  .0000     .00
+29200001030980000      1.00      Diskette to tape conversionsfor credit reporting to CBI.  29.0000   29.00
+29200001030980000      1.00      Diskette to tape conversionsfor credit reporting to TU.   29.0000   29.00
+29200001030980000      1.00      Shipping & Handling charges.(Tapes sent to CBI-Atlanta)    3.0000    3.00
+29200001030980000      1.00      Shipping & Handling charges.(Tapes sent to TU-Chicago)     3.0000    3.00
+0000000     00000       .00                                                                  .0000     .00
